@@ -1,4 +1,4 @@
-![Title PNG "Skill Factory"](/assets/skillfactory_logo.png)
+![Title PNG "Skill Factory"](skillfactory_logo.png)
 # Дипломный проект. Market prediction. 
 <!-- vim-markdown-toc Redcarpet -->
 
