@@ -37,7 +37,9 @@ https://www.kaggle.com/c/jane-street-market-prediction/data
 
 ## Этапы работы над проектом
  * EDA
+https://www.kaggle.com/sophiazamoreeva/eda-mp
  * Построение и обучение ML модели.
+ 
  * Построение и обучение DL модели.
  * Выводы.
  
