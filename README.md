@@ -39,9 +39,10 @@ https://www.kaggle.com/c/jane-street-market-prediction/data
  * EDA
 https://www.kaggle.com/sophiazamoreeva/eda-mp
  * Построение и обучение ML модели.
- 
+https://www.kaggle.com/sophiazamoreeva/catboost-models-mp
  * Построение и обучение DL модели.
- * Выводы.
- 
+https://www.kaggle.com/maxkamashev/controlnotebook
+ * Blending.
+https://www.kaggle.com/sophiazamoreeva/blend-cat-and-nn-models
 ## Результат
-
+Команда: TWAS Public Score: 8472.277
